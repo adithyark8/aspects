@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="0dp"
+    android:layout_height="40dp">
+
+    <TextView
+        android:id="@+id/tvDay"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="14sp"
+        android:textColor="#111111" />
+
+    <View
+        android:id="@+id/dotEvent"
+        android:layout_width="6dp"
+        android:layout_height="6dp"
+        android:layout_gravity="bottom|center_horizontal"
+        android:layout_marginBottom="3dp"
+        android:background="@drawable/dot_event"
+        android:visibility="gone" />
+
+</FrameLayout>
