@@ -11,10 +11,10 @@ a game that gives availability of xp points ,maps ,gudies , creating and persona
 Im trying build a game application that contains every thing a person can need to track ,progress ,focus using technology and use there time and energy effectively from a phone that is distracting.
 
 ## clarification 
-this is not a app or game that i want others using all time but rather to find there true self and understand themselves when it comes getting stuff done and learning.
+this is not a app or game that i want others using all time but rather to find there true self and understand themselves , understanding the Aspects of life when it comes getting stuff done and learning.
 
 ## Reason 
-For humans!..
+For us! i mean for the people who are confused by this aspects of life..
 hope we get stuff done...
 
 
